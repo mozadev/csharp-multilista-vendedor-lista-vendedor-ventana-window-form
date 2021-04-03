@@ -1,0 +1,28 @@
+c:\users\proyecto\documents\visual studio 2015\Projects\EjmMultiLista\EjmMultiLista\bin\Debug\EjmMultiLista.exe.config
+c:\users\proyecto\documents\visual studio 2015\Projects\EjmMultiLista\EjmMultiLista\bin\Debug\EjmMultiLista.exe
+c:\users\proyecto\documents\visual studio 2015\Projects\EjmMultiLista\EjmMultiLista\bin\Debug\EjmMultiLista.pdb
+c:\users\proyecto\documents\visual studio 2015\Projects\EjmMultiLista\EjmMultiLista\obj\Debug\EjmMultiLista.csprojResolveAssemblyReference.cache
+c:\users\proyecto\documents\visual studio 2015\Projects\EjmMultiLista\EjmMultiLista\obj\Debug\EjmMultiLista.Form1.resources
+c:\users\proyecto\documents\visual studio 2015\Projects\EjmMultiLista\EjmMultiLista\obj\Debug\EjmMultiLista.Properties.Resources.resources
+c:\users\proyecto\documents\visual studio 2015\Projects\EjmMultiLista\EjmMultiLista\obj\Debug\EjmMultiLista.csproj.GenerateResource.Cache
+c:\users\proyecto\documents\visual studio 2015\Projects\EjmMultiLista\EjmMultiLista\obj\Debug\EjmMultiLista.exe
+c:\users\proyecto\documents\visual studio 2015\Projects\EjmMultiLista\EjmMultiLista\obj\Debug\EjmMultiLista.pdb
+D:\upc\upc 2 ciclo\fundamenteos de sistemas de informacion\programacion 3\ejemplo multilista\EjmMultiListaAMano\EjmMultiLista\bin\Debug\EjmMultiLista.exe.config
+D:\upc\upc 2 ciclo\fundamenteos de sistemas de informacion\programacion 3\ejemplo multilista\EjmMultiListaAMano\EjmMultiLista\bin\Debug\EjmMultiLista.exe
+D:\upc\upc 2 ciclo\fundamenteos de sistemas de informacion\programacion 3\ejemplo multilista\EjmMultiListaAMano\EjmMultiLista\bin\Debug\EjmMultiLista.pdb
+D:\upc\upc 2 ciclo\fundamenteos de sistemas de informacion\programacion 3\ejemplo multilista\EjmMultiListaAMano\EjmMultiLista\obj\Debug\EjmMultiLista.csprojResolveAssemblyReference.cache
+D:\upc\upc 2 ciclo\fundamenteos de sistemas de informacion\programacion 3\ejemplo multilista\EjmMultiListaAMano\EjmMultiLista\obj\Debug\EjmMultiLista.Form1.resources
+D:\upc\upc 2 ciclo\fundamenteos de sistemas de informacion\programacion 3\ejemplo multilista\EjmMultiListaAMano\EjmMultiLista\obj\Debug\EjmMultiLista.Properties.Resources.resources
+D:\upc\upc 2 ciclo\fundamenteos de sistemas de informacion\programacion 3\ejemplo multilista\EjmMultiListaAMano\EjmMultiLista\obj\Debug\EjmMultiLista.csproj.GenerateResource.Cache
+D:\upc\upc 2 ciclo\fundamenteos de sistemas de informacion\programacion 3\ejemplo multilista\EjmMultiListaAMano\EjmMultiLista\obj\Debug\EjmMultiLista.exe
+D:\upc\upc 2 ciclo\fundamenteos de sistemas de informacion\programacion 3\ejemplo multilista\EjmMultiListaAMano\EjmMultiLista\obj\Debug\EjmMultiLista.pdb
+F:\marco brugman sii\ejemplo multilista\EjmMultiListavend\EjmMultiLista\bin\Debug\EjmMultiLista.exe.config
+F:\marco brugman sii\ejemplo multilista\EjmMultiListavend\EjmMultiLista\bin\Debug\EjmMultiLista.exe
+F:\marco brugman sii\ejemplo multilista\EjmMultiListavend\EjmMultiLista\bin\Debug\EjmMultiLista.pdb
+F:\marco brugman sii\ejemplo multilista\EjmMultiListavend\EjmMultiLista\obj\Debug\EjmMultiLista.csprojAssemblyReference.cache
+F:\marco brugman sii\ejemplo multilista\EjmMultiListavend\EjmMultiLista\obj\Debug\EjmMultiLista.Form1.resources
+F:\marco brugman sii\ejemplo multilista\EjmMultiListavend\EjmMultiLista\obj\Debug\EjmMultiLista.Properties.Resources.resources
+F:\marco brugman sii\ejemplo multilista\EjmMultiListavend\EjmMultiLista\obj\Debug\EjmMultiLista.csproj.GenerateResource.cache
+F:\marco brugman sii\ejemplo multilista\EjmMultiListavend\EjmMultiLista\obj\Debug\EjmMultiLista.csproj.CoreCompileInputs.cache
+F:\marco brugman sii\ejemplo multilista\EjmMultiListavend\EjmMultiLista\obj\Debug\EjmMultiLista.exe
+F:\marco brugman sii\ejemplo multilista\EjmMultiListavend\EjmMultiLista\obj\Debug\EjmMultiLista.pdb
